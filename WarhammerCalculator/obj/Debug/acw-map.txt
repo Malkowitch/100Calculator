@@ -1,0 +1,4 @@
+WarhammerCalculator.MainActivity, WarhammerCalculator;md53dc0a77dcf0712d8b0a0d484ffec5918.MainActivity
+WarhammerCalculator.MainActivity, WarhammerCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53dc0a77dcf0712d8b0a0d484ffec5918.MainActivity
+WarhammerCalculator.MainActivity;md53dc0a77dcf0712d8b0a0d484ffec5918.MainActivity
+warhammercalculator.MainActivity;md53dc0a77dcf0712d8b0a0d484ffec5918.MainActivity
